@@ -1,0 +1,1 @@
+	output:2018-09-03 20:34:32,782 INFO FSNamesystem.audit: allowed=true	ugi=hbase (auth:SIMPLE)	ip=/10.25.246.216	cmd=setTimes	src=/hbase/WALs/hadoop2,60020,1535977205837/hadoop2%2C60020%2C1535977205837.null0.1535977231758	dst=null	perm=hbase:hbase:rw-r--r--	proto=rpc
